@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>cat.png</Source>
+      <Name>cat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\cat.xnb</Output>
+      <Time>2017-04-27T14:25:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\base\teel0002.png</Source>
+      <Name>Sprite\teel\base\teel0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0002.xnb</Output>
+      <Time>2017-05-01T00:15:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\base\teel0003.png</Source>
+      <Name>Sprite\teel\base\teel0003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0003.xnb</Output>
+      <Time>2017-05-01T00:15:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\base\teel0004.png</Source>
+      <Name>Sprite\teel\base\teel0004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0004.xnb</Output>
+      <Time>2017-05-01T00:15:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\base\teel0005.png</Source>
+      <Name>Sprite\teel\base\teel0005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0005.xnb</Output>
+      <Time>2017-05-01T00:15:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\base\teel0006.png</Source>
+      <Name>Sprite\teel\base\teel0006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0006.xnb</Output>
+      <Time>2017-05-01T00:15:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\base\teel0007.png</Source>
+      <Name>Sprite\teel\base\teel0007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0007.xnb</Output>
+      <Time>2017-05-01T00:15:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\base\teel0008.png</Source>
+      <Name>Sprite\teel\base\teel0008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0008.xnb</Output>
+      <Time>2017-05-01T00:15:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\base\teel0000.png</Source>
+      <Name>Sprite\teel\base\teel0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0000.xnb</Output>
+      <Time>2017-05-01T00:15:40+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\base\teel0001.png</Source>
+      <Name>Sprite\teel\base\teel0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0001.xnb</Output>
+      <Time>2017-05-01T00:15:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\pat\teel0000.PNG</Source>
+      <Name>Sprite\teel\pat\teel0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\pat\teel0000.xnb</Output>
+      <Time>2017-04-29T04:48:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\pat\teel0001.PNG</Source>
+      <Name>Sprite\teel\pat\teel0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\pat\teel0001.xnb</Output>
+      <Time>2017-04-29T04:48:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\pat\teel0002.png</Source>
+      <Name>Sprite\teel\pat\teel0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\pat\teel0002.xnb</Output>
+      <Time>2017-05-01T00:17:18+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\reverse\teel0000.PNG</Source>
+      <Name>Sprite\teel\reverse\teel0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0000.xnb</Output>
+      <Time>2017-04-29T04:48:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\reverse\teel0001.PNG</Source>
+      <Name>Sprite\teel\reverse\teel0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0001.xnb</Output>
+      <Time>2017-04-29T04:48:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\reverse\teel0002.PNG</Source>
+      <Name>Sprite\teel\reverse\teel0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0002.xnb</Output>
+      <Time>2017-04-29T04:48:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\reverse\teel0003.PNG</Source>
+      <Name>Sprite\teel\reverse\teel0003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0003.xnb</Output>
+      <Time>2017-04-29T04:48:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\teel\teel0000.PNG</Source>
+      <Name>Sprite\teel\teel\teel0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\teel\teel0000.xnb</Output>
+      <Time>2017-04-29T04:48:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\base\teel0009.PNG</Source>
+      <Name>Sprite\teel\base\teel0009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0009.xnb</Output>
+      <Time>2017-05-01T00:12:32+09:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2017-05-01T00:34:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\burn\teel0000.PNG</Source>
+      <Name>Sprite\teel\burn\teel0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0000.xnb</Output>
+      <Time>2017-05-02T05:23:49.889+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\burn\teel0001.PNG</Source>
+      <Name>Sprite\teel\burn\teel0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0001.xnb</Output>
+      <Time>2017-05-02T05:23:49.889+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\burn\teel0002.PNG</Source>
+      <Name>Sprite\teel\burn\teel0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0002.xnb</Output>
+      <Time>2017-05-02T05:23:49.889+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\burn\teel0003.PNG</Source>
+      <Name>Sprite\teel\burn\teel0003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0003.xnb</Output>
+      <Time>2017-05-02T05:23:49.889+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite\teel\burn\teel0004.PNG</Source>
+      <Name>Sprite\teel\burn\teel0004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0004.xnb</Output>
+      <Time>2017-05-02T05:23:49.889+09:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D6AAC4AE-321D-4A61-A1B8-5F2B8219B4EC}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoonContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Visual Studio 2015\Projects\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-04-27T13:07:49.3348003+09:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -74,5 +74,17 @@ namespace FishBreadTycoon
                 endTime = value;
             }
         }
+
+        public bool IsAnimate
+        {
+            get
+            {
+                return isAnimate;
+            }
+            set
+            {
+                isAnimate = value;
+            }
+        }
     }
 }

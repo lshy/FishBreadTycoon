@@ -13,7 +13,6 @@ namespace FishBreadTycoon
         OJ_PATING,
         OJ_PAT,
         OJ_REVERSEING,
-        OJ_END,
         OJ_BURNING,
     }
 }

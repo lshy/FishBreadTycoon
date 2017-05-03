@@ -80,7 +80,7 @@ namespace FishBreadTycoon
                     k++;
                 }
 
-                teelPos = new Vector2((i % 3) * 200+300, 200 * k-100);
+                teelPos = new Vector2((i % 3) * 200 + 300, 200 * k - 100);
                 posList[i] = teelPos;
             }
 
@@ -133,11 +133,11 @@ namespace FishBreadTycoon
 
             mouseX = mouseState.X;
             mouseY = mouseState.Y;
-            
+
 
             TeelAnimationCheck(gameTime);
             ClickEvent(gameTime);
-            
+
 
             // TODO: Add your update logic here
 
@@ -153,7 +153,7 @@ namespace FishBreadTycoon
 
 
             GraphicsDevice.Clear(Color.CornflowerBlue);
-            
+
             spriteBatch.Begin(SpriteSortMode.Deferred, BlendState.AlphaBlend);
 
             spriteBatch.Draw(bg, new Vector2(0, 0), new Color(255, 255, 255, 255));//background
@@ -164,7 +164,7 @@ namespace FishBreadTycoon
             }
             spriteBatch.End();
 
-           
+
             base.Draw(gameTime);
         }
 
@@ -176,19 +176,15 @@ namespace FishBreadTycoon
                 {
                     if (new Rectangle((int)posList[i].X, (int)posList[i].Y, 200, 200).Contains(mouseX, mouseY))
                     {
-                        if (breads[i].State + 1 != TEEL_STATE.OJ_END)
+                        if (!breads[i].IsAnimate)
                         {
                             breads[i].State++;
                             breads[i].Start = 0;
                             breads[i].End = CalcCount(breads[i].State);
-                        }
-                        else
-                        {
-                            breads[i].State = TEEL_STATE.OJ_IDLE;
-
-                            breads[i].Start = 0;
-                            breads[i].End = CalcCount(breads[i].State);
-
+                            if (breads[i].End != 0)
+                            {
+                                breads[i].IsAnimate = true;
+                            }
                         }
                     }
                 }
@@ -197,7 +193,7 @@ namespace FishBreadTycoon
                     if (new Rectangle((int)posList[i].X, (int)posList[i].Y, 200, 200).Contains(mouseX, mouseY))
                     {
                         System.Windows.Forms.MessageBox.Show(i + 1 + "¹ø ºØ¾î»§ µÚÁý±â");
-                        Debug.Print(""+ player1.BreadCount);
+                        Debug.Print("" + player1.BreadCount);
                     }
                 }
             }
@@ -206,16 +202,17 @@ namespace FishBreadTycoon
         private void TeelAnimationCheck(GameTime gameTime)
         {
             int time = (int)gameTime.TotalGameTime.TotalMilliseconds;
-            
+
             for (int i = 0; i < 9; i++)
             {
 
-                if(breads[i].EndTime != 0 && breads[i].EndTime < time / 1000)
+                if (breads[i].EndTime != 0 && breads[i].EndTime < time / 1000)
                 {
                     breads[i].State = TEEL_STATE.OJ_BURNING;
                     breads[i].Start = 0;
                     breads[i].End = CalcCount(TEEL_STATE.OJ_BURNING);
                     breads[i].EndTime = 0;
+                    breads[i].IsAnimate = true;
                 }
 
 
@@ -232,37 +229,31 @@ namespace FishBreadTycoon
                     }
                 }
 
-                if (breads[i].State == TEEL_STATE.OJ_BASEING && breads[i].Start == breads[i].End)
+                if (breads[i].IsAnimate && breads[i].Start == breads[i].End)
                 {
-                    breads[i].State = TEEL_STATE.OJ_BASE;
+                    if (breads[i].State == TEEL_STATE.OJ_REVERSEING)
+                    {
+                        breads[i].State = TEEL_STATE.OJ_IDLE;
+                        breads[i].EndTime = 0;
+                        player1.BreadCount++;
+                    }
+                    else if (breads[i].State == TEEL_STATE.OJ_BURNING)
+                    {
+                        breads[i].State = TEEL_STATE.OJ_IDLE;
+                    }
+                    else
+                    {
+                        breads[i].State++;
+                    }
+
+                    if (breads[i].State == TEEL_STATE.OJ_PAT)
+                    {
+                        breads[i].EndTime = time/1000 + random.Next(3, 7);
+                    }
 
                     breads[i].Start = 0;
-
                     breads[i].End = 0;
-                }
-                else if (breads[i].State == TEEL_STATE.OJ_PATING && breads[i].Start == breads[i].End)
-                {
-                    breads[i].State = TEEL_STATE.OJ_PAT;
-
-                    breads[i].Start = 0;
-
-                    breads[i].End = 0;
-                    breads[i].EndTime = time/1000 + random.Next(5, 7);
-                }
-                else if (breads[i].State == TEEL_STATE.OJ_REVERSEING && breads[i].Start == breads[i].End)
-                {
-                    breads[i].State = TEEL_STATE.OJ_IDLE;
-                    breads[i].Start = 0;
-                    breads[i].End = 0;
-                    breads[i].EndTime = 0;
-                    player1.BreadCount++;
-                }
-                else if (breads[i].State == TEEL_STATE.OJ_BURNING && breads[i].Start == breads[i].End)
-                {
-                    breads[i].State = TEEL_STATE.OJ_IDLE;
-                    breads[i].Start = 0;
-                    breads[i].End = 0;
-                    breads[i].EndTime = 0;
+                    breads[i].IsAnimate = false;
                 }
             }
 

@@ -10,6 +10,7 @@ namespace FishBreadTycoon
         private int life;
         private int breadCount;
         private int point;
+        private int cursorType;
 
         public int Life
         {
@@ -44,6 +45,17 @@ namespace FishBreadTycoon
             set
             {
                 point = value;
+            }
+        }
+        public int CursorType
+        {
+            get
+            {
+                return cursorType;
+            }
+            set
+            {
+                cursorType = value;
             }
         }
 

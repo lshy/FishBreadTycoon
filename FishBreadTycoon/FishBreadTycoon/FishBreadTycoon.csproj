@@ -76,11 +76,14 @@
   <ItemGroup>
     <Compile Include="FishBread.cs" />
     <Compile Include="GameDefine.cs" />
+    <Compile Include="LongClickTimer.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="SpriteManager.cs" />
+    <Compile Include="Timer.cs" />
+    <Compile Include="TimerManager.cs" />
     <Compile Include="UI\Sprite.cs" />
   </ItemGroup>
   <ItemGroup>

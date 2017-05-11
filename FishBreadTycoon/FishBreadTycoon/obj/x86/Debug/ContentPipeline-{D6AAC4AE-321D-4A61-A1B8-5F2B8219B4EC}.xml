@@ -8,7 +8,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\cat.xnb</Output>
-      <Time>2017-04-27T14:25:52+09:00</Time>
+      <Time>2017-05-11T21:40:26.786+09:00</Time>
     </Item>
     <Item>
       <Source>Sprite\teel\base\teel0002.png</Source>
@@ -225,6 +225,33 @@
       <Options>None</Options>
       <Output>C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0004.xnb</Output>
       <Time>2017-05-02T05:23:49.889+09:00</Time>
+    </Item>
+    <Item>
+      <Source>banjuk.png</Source>
+      <Name>banjuk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\banjuk.xnb</Output>
+      <Time>2017-05-11T21:40:20.989+09:00</Time>
+    </Item>
+    <Item>
+      <Source>pat.PNG</Source>
+      <Name>pat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\pat.xnb</Output>
+      <Time>2017-05-11T21:40:04.929+09:00</Time>
+    </Item>
+    <Item>
+      <Source>hand.PNG</Source>
+      <Name>hand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\hand.xnb</Output>
+      <Time>2017-05-11T22:37:13.836+09:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

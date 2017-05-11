@@ -32,10 +32,13 @@ namespace FishBreadTycoon
         FishBread[] breads;
         Player player1;
 
+        KeyboardState oldState;
+        KeyboardState newState;
         MouseState mouseState;
         MouseState prevmouseState;
 
         Texture2D bg = null;
+        Texture2D sprite;
 
         Random random;
 
@@ -52,7 +55,7 @@ namespace FishBreadTycoon
             graphics = new GraphicsDeviceManager(this);
 
             Content.RootDirectory = "Content";
-            IsMouseVisible = true;
+            //IsMouseVisible = true;
             graphics.PreferredBackBufferHeight = 800;
             graphics.PreferredBackBufferWidth = 1200;
 
@@ -94,6 +97,8 @@ namespace FishBreadTycoon
                 posList[i] = teelPos;
             }
 
+
+            oldState = Keyboard.GetState();
             base.Initialize();
         }
 
@@ -117,6 +122,7 @@ namespace FishBreadTycoon
             spManger.AddSprite(TEEL_STATE.OJ_PAT, Content, "Sprite/teel/pat/teel0002");
             spManger.AddSprite(TEEL_STATE.OJ_REVERSEING, Content, "Sprite/teel/reverse/teel", (int)SPRITE_COUNT.SP_REVERSING);
             spManger.AddSprite(TEEL_STATE.OJ_BURNING, Content, "Sprite/teel/burn/teel", (int)SPRITE_COUNT.SP_BURNING);
+            sprite = Content.Load<Texture2D>("hand");
 
             //TODO: use this.Content to load your game content here
         }
@@ -141,6 +147,9 @@ namespace FishBreadTycoon
             prevmouseState = mouseState;
             mouseState = Mouse.GetState();
 
+            oldState = newState;
+            newState = Keyboard.GetState();
+
             mouseX = mouseState.X;
             mouseY = mouseState.Y;
 
@@ -150,7 +159,12 @@ namespace FishBreadTycoon
 
 
             timerManager.process((int)gameTime.TotalGameTime.TotalMilliseconds);
+
+            UpdateInput();
+            
             // TODO: Add your update logic here
+
+            
 
             base.Update(gameTime);
         }
@@ -173,30 +187,16 @@ namespace FishBreadTycoon
             {
                 spManger.Draw(breads[i].State, breads[i].Start, posList[i], Color.White);
             }
+
+            spriteBatch.Draw(sprite, new Vector2(Mouse.GetState().X, Mouse.GetState().Y), Color.White);
             spriteBatch.End();
 
-
+            
             base.Draw(gameTime);
         }
 
         private void ClickEvent(GameTime gameTime)
         {
-            // Temporory Cursor Change   need Delete
-            if (mouseState.RightButton == ButtonState.Released && prevmouseState.RightButton == ButtonState.Pressed)
-            {
-                if (player1.CursorType == 1)
-                {
-                    player1.CursorType = 0;
-                    Debug.Print(player1.CursorType + "");
-                }
-                else if (player1.CursorType == 0)
-                {
-                    player1.CursorType = 1;
-                    Debug.Print(player1.CursorType + "");
-                }
-
-            }
-
             switch (player1.CursorType)
             {
                 case (int)CURSOR_TYPE.HAND:
@@ -238,12 +238,16 @@ namespace FishBreadTycoon
                     {
                         if (!breads[i].IsAnimate && breads[i].State != TEEL_STATE.OJ_IDLE)
                         {
-                            breads[i].State++;
-                            breads[i].Start = 0;
-                            breads[i].End = CalcCount(breads[i].State);
-                            if (breads[i].End != 0)
+                            if(   (player1.CursorType == (int)CURSOR_TYPE.PAT && breads[i].State == TEEL_STATE.OJ_BASE) 
+                                  || (player1.CursorType == (int)CURSOR_TYPE.HAND && breads[i].State == TEEL_STATE.OJ_PAT))
                             {
-                                breads[i].IsAnimate = true;
+                                breads[i].State++;
+                                breads[i].Start = 0;
+                                breads[i].End = CalcCount(breads[i].State);
+                                if (breads[i].End != 0)
+                                {
+                                    breads[i].IsAnimate = true;
+                                }
                             }
                         }
                     }
@@ -328,6 +332,35 @@ namespace FishBreadTycoon
                     return (int)SPRITE_COUNT.SP_BURNING - 1;
             }
             return 0;
+        }
+
+        private void UpdateInput()
+        {
+
+            if (oldState.IsKeyDown(Keys.Q) && newState.IsKeyUp(Keys.Q))
+            {
+
+                // If not down last update, key has just been pressed.
+                //if (!oldState.IsKeyDown(Keys.Q)
+                player1.CursorType = (int)CURSOR_TYPE.KETTLE;
+                sprite = Content.Load<Texture2D>("banjuk");
+            }
+            if (oldState.IsKeyDown(Keys.W) && newState.IsKeyUp(Keys.W))
+            {
+
+                // If not down last update, key has just been pressed.
+                //if (!oldState.IsKeyDown(Keys.W)
+
+                player1.CursorType = (int)CURSOR_TYPE.PAT;
+                sprite = Content.Load<Texture2D>("pat");
+            }
+            if (oldState.IsKeyDown(Keys.E) && newState.IsKeyUp(Keys.E))
+            {
+                // If not down last update, key has just been pressed.
+                //if (!oldState.IsKeyDown(Keys.E)
+                player1.CursorType = (int)CURSOR_TYPE.HAND;
+                sprite = Content.Load<Texture2D>("hand");
+            }
         }
     }
 }

@@ -152,3 +152,6 @@ C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\obj\x86\
 C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\obj\x86\Debug\FishBreadTycoon.exe
 C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\obj\x86\Debug\FishBreadTycoon.pdb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\banjuk.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\pat.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\hand.xnb

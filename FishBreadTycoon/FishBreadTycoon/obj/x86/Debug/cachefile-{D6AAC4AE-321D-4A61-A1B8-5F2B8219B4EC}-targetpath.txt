@@ -23,3 +23,6 @@ Content\Sprite\teel\burn\teel0001.xnb
 Content\Sprite\teel\burn\teel0002.xnb
 Content\Sprite\teel\burn\teel0003.xnb
 Content\Sprite\teel\burn\teel0004.xnb
+Content\banjuk.xnb
+Content\pat.xnb
+Content\hand.xnb

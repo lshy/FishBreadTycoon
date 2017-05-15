@@ -8,6 +8,7 @@ using Microsoft.Xna.Framework;
 
 namespace FishBreadTycoon
 {
+   
     class FishBread
     {
         TEEL_STATE teel_type;

@@ -39,8 +39,6 @@ C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoo
 C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0004.xnb
 C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0005.xnb
 C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0006.xnb
-C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0007.xnb
-C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0008.xnb
 C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0000.xnb
 C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0001.xnb
 C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\pat\teel0000.xnb
@@ -51,7 +49,6 @@ C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoo
 C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0002.xnb
 C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0003.xnb
 C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\teel\teel0000.xnb
-C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0009.xnb
 C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\FishBreadTycoon.exe
 C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\FishBreadTycoon.pdb
 C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.dll
@@ -155,3 +152,264 @@ C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\obj\x86\
 C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\banjuk.xnb
 C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\pat.xnb
 C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\hand.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0000.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0001.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0002.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0003.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0004.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\pat.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\hand.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\banjuk.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0007.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0008.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0009.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0004.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0005.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0006.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0007.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0008.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0009.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0010.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0011.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0012.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0013.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0014.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0015.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0000.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0001.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0002.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0003.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0004.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0005.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0006.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0007.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0008.xnb
+C:\Users\502\Documents\카카오톡 받은 파일\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0009.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\cat.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\pat\teel0000.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\pat\teel0001.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\pat\teel0002.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0000.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0001.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0002.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0003.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\teel\teel0000.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\background.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0000.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0001.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0002.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0003.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0004.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\pat.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\hand.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\banjuk.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0000.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0001.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0002.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0003.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0004.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0005.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0006.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0007.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0008.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0009.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0004.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0005.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0006.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0007.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0008.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0009.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0010.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0011.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0012.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0013.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0014.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0015.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0000.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0001.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0002.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0003.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0004.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0005.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0006.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0007.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0008.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0009.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\FishBreadTycoon.exe
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\FishBreadTycoon.pdb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\obj\x86\Debug\FishBreadTycoon.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\obj\x86\Debug\FishBreadTycoon.exe
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\obj\x86\Debug\FishBreadTycoon.pdb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0016.xnb
+C:\Users\User\Desktop\FishBreadTycoon (1)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0017.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0000.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0001.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0002.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0003.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0004.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\pat.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\hand.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\banjuk.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0004.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0005.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0006.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0007.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0008.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0009.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0010.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0011.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0012.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0013.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0014.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0015.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0000.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0001.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0002.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0003.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0004.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0005.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0006.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0007.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0008.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0009.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0016.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\finishing\teel0000.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\finishing\teel0001.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0005.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0006.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0007.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0008.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0009.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0010.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0011.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0012.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0013.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0014.xnb
+C:\Users\User\Desktop\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0015.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\cat.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\pat\teel0000.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\pat\teel0001.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\pat\teel0002.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0000.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0001.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0002.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0003.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\teel\teel0000.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\background.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0000.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0001.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0002.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0003.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0004.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\pat.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\hand.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\banjuk.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0000.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0001.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0002.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0003.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0004.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0005.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0006.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0007.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0008.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\base\teel0009.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0004.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0005.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0006.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0007.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0008.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0009.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0010.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0011.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0012.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0013.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0014.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0015.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0000.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0001.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0002.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0003.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0004.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0005.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0006.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0007.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0008.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0009.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0016.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\finishing\teel0000.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\finishing\teel0001.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0005.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0006.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0007.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0008.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0009.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0010.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0011.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0012.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0013.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0014.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0015.xnb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\FishBreadTycoon.exe
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\FishBreadTycoon.pdb
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\obj\x86\Debug\FishBreadTycoon.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\obj\x86\Debug\FishBreadTycoon.exe
+C:\Users\User\Desktop\FishBreadTycoon (2)\FishBreadTycoon\FishBreadTycoon\obj\x86\Debug\FishBreadTycoon.pdb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0004.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0005.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0006.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0007.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0008.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0009.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0010.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0011.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0012.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0013.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0014.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0015.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0000.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0001.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0002.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0003.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0004.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0005.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0006.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0007.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0008.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\people\people0009.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\reverse\teel0016.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\finishing\teel0000.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\finishing\teel0001.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0005.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0006.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0007.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0008.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0009.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0010.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0011.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0012.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0013.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0014.xnb
+C:\Users\User\Documents\FishBreadTycoon\FishBreadTycoon\FishBreadTycoon\bin\x86\Debug\Content\Sprite\teel\burn\teel0015.xnb

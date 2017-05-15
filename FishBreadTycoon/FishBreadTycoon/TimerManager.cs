@@ -20,7 +20,6 @@ namespace FishBreadTycoon
             {
                 if((int)RETURN_FLAG.DELETE == list[i].process(gameTime))
                 {
-                    Debug.Print("3");
                     list.RemoveAt(i);
                 }
                 

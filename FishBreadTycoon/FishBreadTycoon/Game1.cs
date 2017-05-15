@@ -27,6 +27,7 @@ namespace FishBreadTycoon
         SpriteManager spManger = new SpriteManager();
 
         Vector2[] posList;
+        Vector2[] posMouse;
         Vector2 teelPos = Vector2.Zero;
 
         FishBread[] breads;
@@ -34,6 +35,7 @@ namespace FishBreadTycoon
 
         KeyboardState oldState;
         KeyboardState newState;
+
         MouseState mouseState;
         MouseState prevmouseState;
 
@@ -45,6 +47,8 @@ namespace FishBreadTycoon
         private int mouseX;
         private int mouseY;
 
+        private int whatCursur;
+
         private int termClickTime;
 
         TimerManager timerManager;
@@ -55,12 +59,14 @@ namespace FishBreadTycoon
             graphics = new GraphicsDeviceManager(this);
 
             Content.RootDirectory = "Content";
-            //IsMouseVisible = true;
+            IsMouseVisible = true;
             graphics.PreferredBackBufferHeight = 800;
             graphics.PreferredBackBufferWidth = 1200;
 
 
             posList = new Vector2[9];
+            posMouse = new Vector2[3];
+
             player1 = new Player();
 
             random = new Random();
@@ -97,6 +103,9 @@ namespace FishBreadTycoon
                 posList[i] = teelPos;
             }
 
+            posMouse[0] = new Vector2(14, 137);
+            posMouse[1] = new Vector2(70, 100);
+            posMouse[2] = new Vector2(123, 3);
 
             oldState = Keyboard.GetState();
             base.Initialize();
@@ -121,6 +130,8 @@ namespace FishBreadTycoon
             spManger.AddSprite(TEEL_STATE.OJ_PATING, Content, "Sprite/teel/pat/teel", (int)SPRITE_COUNT.SP_PATING);
             spManger.AddSprite(TEEL_STATE.OJ_PAT, Content, "Sprite/teel/pat/teel0002");
             spManger.AddSprite(TEEL_STATE.OJ_REVERSEING, Content, "Sprite/teel/reverse/teel", (int)SPRITE_COUNT.SP_REVERSING);
+            spManger.AddSprite(TEEL_STATE.OJ_FINISHED, Content, "Sprite/teel/reverse/teel0016");
+            spManger.AddSprite(TEEL_STATE.OJ_FINISHING, Content, "Sprite/teel/finishing/teel", (int)SPRITE_COUNT.SP_FINISHING);
             spManger.AddSprite(TEEL_STATE.OJ_BURNING, Content, "Sprite/teel/burn/teel", (int)SPRITE_COUNT.SP_BURNING);
             sprite = Content.Load<Texture2D>("hand");
 
@@ -154,17 +165,17 @@ namespace FishBreadTycoon
             mouseY = mouseState.Y;
 
 
-            TeelAnimationCheck(gameTime);
             ClickEvent(gameTime);
+            TeelAnimationCheck(gameTime);
 
 
             timerManager.process((int)gameTime.TotalGameTime.TotalMilliseconds);
 
             UpdateInput();
-            
+
             // TODO: Add your update logic here
 
-            
+
 
             base.Update(gameTime);
         }
@@ -188,10 +199,25 @@ namespace FishBreadTycoon
                 spManger.Draw(breads[i].State, breads[i].Start, posList[i], Color.White);
             }
 
-            spriteBatch.Draw(sprite, new Vector2(Mouse.GetState().X, Mouse.GetState().Y), Color.White);
+
+            switch (player1.CursorType)
+            {
+                case (int)CURSOR_TYPE.KETTLE:
+                    whatCursur = 0;
+                    break;
+                case (int)CURSOR_TYPE.PAT:
+                    whatCursur = 1;
+                    break;
+                case (int)CURSOR_TYPE.HAND:
+                    whatCursur = 2;
+                    break;
+            }
+            spriteBatch.Draw(sprite, new Vector2(Mouse.GetState().X - (int)posMouse[whatCursur].X, Mouse.GetState().Y - (int)posMouse[whatCursur].Y), Color.White);
+
+
             spriteBatch.End();
 
-            
+
             base.Draw(gameTime);
         }
 
@@ -238,8 +264,8 @@ namespace FishBreadTycoon
                     {
                         if (!breads[i].IsAnimate && breads[i].State != TEEL_STATE.OJ_IDLE)
                         {
-                            if(   (player1.CursorType == (int)CURSOR_TYPE.PAT && breads[i].State == TEEL_STATE.OJ_BASE) 
-                                  || (player1.CursorType == (int)CURSOR_TYPE.HAND && breads[i].State == TEEL_STATE.OJ_PAT))
+                            if ((player1.CursorType == (int)CURSOR_TYPE.PAT && breads[i].State == TEEL_STATE.OJ_BASE)
+                                  || (player1.CursorType == (int)CURSOR_TYPE.HAND && (breads[i].State == TEEL_STATE.OJ_PAT || (breads[i].State == TEEL_STATE.OJ_FINISHED))))
                             {
                                 breads[i].State++;
                                 breads[i].Start = 0;
@@ -261,7 +287,7 @@ namespace FishBreadTycoon
         private void TeelAnimationCheck(GameTime gameTime)
         {
             int time = (int)gameTime.TotalGameTime.TotalMilliseconds;
-
+            
             for (int i = 0; i < 9; i++)
             {
 
@@ -275,8 +301,10 @@ namespace FishBreadTycoon
                 }
 
 
-
-                if (time % 10 == 0)
+                // chage anmation time
+                if ((player1.CursorType == (int)CURSOR_TYPE.KETTLE && time % 10 == 0)
+                    || (player1.CursorType == (int)CURSOR_TYPE.PAT && time % 10 == 0)
+                        || (player1.CursorType == (int)CURSOR_TYPE.HAND && time % 2 == 0))
                 {
                     if (breads[i].Start == breads[i].End)
                     {
@@ -290,7 +318,7 @@ namespace FishBreadTycoon
 
                 if (breads[i].IsAnimate && breads[i].Start == breads[i].End)
                 {
-                    if (breads[i].State == TEEL_STATE.OJ_REVERSEING)
+                    if (breads[i].State == TEEL_STATE.OJ_FINISHING)
                     {
                         breads[i].State = TEEL_STATE.OJ_IDLE;
                         breads[i].EndTime = 0;
@@ -328,6 +356,8 @@ namespace FishBreadTycoon
                     return (int)SPRITE_COUNT.SP_PATING - 1;
                 case TEEL_STATE.OJ_REVERSEING:
                     return (int)SPRITE_COUNT.SP_REVERSING - 1;
+                case TEEL_STATE.OJ_FINISHING:
+                    return (int)SPRITE_COUNT.SP_FINISHING -1;
                 case TEEL_STATE.OJ_BURNING:
                     return (int)SPRITE_COUNT.SP_BURNING - 1;
             }

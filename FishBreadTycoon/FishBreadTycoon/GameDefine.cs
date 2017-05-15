@@ -13,6 +13,8 @@ namespace FishBreadTycoon
         OJ_PATING,
         OJ_PAT,
         OJ_REVERSEING,
+        OJ_FINISHED,
+        OJ_FINISHING,
         OJ_END,
         OJ_BURNING,
     }
@@ -29,9 +31,10 @@ namespace FishBreadTycoon
     }
     enum SPRITE_COUNT
     {
-        SP_BASEING = 10,
+        SP_BASEING = 7,
         SP_PATING = 3,
-        SP_REVERSING = 4,
-        SP_BURNING = 5,
+        SP_REVERSING = 17,
+        SP_BURNING = 16,
+        SP_FINISHING = 2,
     }
 }
